@@ -3,7 +3,7 @@
 **Course:** Software Engineering  |  **Topic:** Software Design  |  **Level:** Bachelor (BNQF Level 6)
 **Full Marks:** 40  |  **Time:** 1 Hour (60 minutes)  |  **Bloom's Taxonomy:** C1 (Knowledge), C2 (Understanding)
 
-**Sources:** `SoftEng-Design.pdf` (155 lecture slides) and `Developing-Questions-main.zip` (reference `README.md`)
+**Sources:** `SoftEng-Design.pdf` (155 lecture slides).
 
 > The question paper is original. The reference README was used only for the academic requirements, assessment structure and topic selection. Every question and every marking point below is traceable to the lecture slides (Deliverable 7).
 
